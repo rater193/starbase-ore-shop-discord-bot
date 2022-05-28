@@ -1,5 +1,4 @@
 # Custom stuffs
-config.js
 
 # Logs
 logs
@@ -128,4 +127,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-config.js
