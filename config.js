@@ -1,7 +1,7 @@
 let cfg = {
     token: {
-        bot: "OTc2NjQ5MDM4MDkyOTgwMjQ0.GI3DRJ.i5ePJFu_wNuF0I7YryHvBlVcBl5GfkhqWUVhes",
-        rest: "OTc2NjQ5MDM4MDkyOTgwMjQ0.GI3DRJ.i5ePJFu_wNuF0I7YryHvBlVcBl5GfkhqWUVhes"
+        bot: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        rest: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     },
     ids: {
         bot: "976649038092980244",
