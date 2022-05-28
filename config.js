@@ -1,7 +1,7 @@
 let cfg = {
     token: {
-        bot: "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        rest: "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        bot: "BotAuthKeyHere",
+        rest: "BotAuthKeyHere"
     },
     ids: {
         bot: "976649038092980244",
